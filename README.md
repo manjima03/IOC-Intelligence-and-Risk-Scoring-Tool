@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ### 3. Configure API keys (optional)
 
-Copy `.env.example` to `.env` and add your own API keys:
+Create `.env` and add your API keys:
 ```env
 VIRUSTOTAL_API_KEY=your_key_here
 ABUSEIPDB_API_KEY=your_key_here
